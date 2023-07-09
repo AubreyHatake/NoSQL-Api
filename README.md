@@ -1,6 +1,10 @@
 # NoSQL-Api
 walkthrough video is [here](<images/Untitled_ Jul 9, 2023 12_01 AM.webm>)
 
+screenshots are here
+![GET users](images/userroutes.jpg)
+![POST users](images/postuserroutes.jpg)
+![POST thoughts](<images/thoughts post route.jpg>)
 
 ## User Story
 AS A social media startup
