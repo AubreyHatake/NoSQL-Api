@@ -5,7 +5,6 @@ walkthrough video is here: https://drive.google.com/file/d/1pJ4mrXXVvXEQ4nUjOO0M
 screenshots are here
 ![GET users](images/userroutes.jpg)
 ![POST users](images/postuserroutes.jpg)
-![POST thoughts](<images/thoughts post route.jpg>)
 
 ## User Story
 AS A social media startup
