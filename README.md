@@ -1,5 +1,5 @@
 # NoSQL-Api
-walkthrough video is
+walkthrough video is here: [walkthrough video](<images/Untitled_ Jul 11, 2023 1_12 PM.webm>)
 
 screenshots are here
 ![GET users](images/userroutes.jpg)
