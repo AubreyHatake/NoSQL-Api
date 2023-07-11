@@ -1,5 +1,6 @@
 # NoSQL-Api
-walkthrough video is here: [walkthrough video](<images/Untitled_ Jul 11, 2023 1_12 PM.webm>)
+walkthrough video is here: https://drive.google.com/file/d/1pJ4mrXXVvXEQ4nUjOO0MCzgjhdUAq8yJ/view
+
 
 screenshots are here
 ![GET users](images/userroutes.jpg)
